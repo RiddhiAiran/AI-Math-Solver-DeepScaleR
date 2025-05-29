@@ -78,7 +78,3 @@ A simple textbox interface that provides solutions to math problems via DeepScal
 - Course: *Mastering DeepScaleR* by Vivian Aranha
 
 ---
-
-## 📄 License
-
-MIT License
